@@ -1,4 +1,4 @@
-#!/usr/local/bin/python2.7
+#! /usr/local/bin/python3
 # distributions may wish to edit the above to refer to a specific interpreter
 # path, such as #!/usr/bin/python
 
